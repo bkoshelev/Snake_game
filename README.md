@@ -2,6 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 # Snake(змейка)
+[![045.png](https://s1.postimg.org/7ebw6ovwz3/045.png)](https://postimg.org/image/1sa5stum5n/)
 
 ## Описание
 Реализация популярной игры snake в виде React-компонента.
@@ -19,7 +20,7 @@ q - Старт игры
 wasd - управление змейкой
 
 ## Что не реализовано
-- Внешний вид игры
+- приятный внешний вид игры
 - Режим игры без стен, когда змея вошедшая в стену,
 возвращается через противоположную стену поля
 - Параметры, которые можно задать, при монтировании компонента:
