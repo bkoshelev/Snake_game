@@ -1,0 +1,12 @@
+.Row-active {
+  background-color: red;
+}
+
+.Row-row {
+  height : 25px;
+  width: 25px;
+}
+
+.Row-food {
+    background-color: blue;
+}

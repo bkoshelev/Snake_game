@@ -1,0 +1,35 @@
+{
+  "name": "snake",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "arrow-keys-react": "^1.0.6",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-key-handler": "^1.0.0",
+    "react-scripts": "1.0.14",
+    "classnames": "*"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "*",
+    "babel-eslint": "*",
+    "babel-preset-env": "*",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "*",
+    "eslint": "4.9.0",
+    "eslint-config-airbnb-base": "*",
+    "eslint-plugin-import": "*",
+    "eslint-plugin-jest": "^21.1.0",
+    "eslint-plugin-react": "^7.4.0",
+    "flow-bin": "*",
+    "jest": "*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
