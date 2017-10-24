@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [![045.png](https://s1.postimg.org/7ebw6ovwz3/045.png)](https://postimg.org/image/1sa5stum5n/)
 
 ## Описание
-Реализация популярной игры snake в виде React-компонента.
+Реализация популярной игры snake в виде React-компонента. <br>
+Сам компонент находится в файле src/Game.js
 
 ## Запуск
 npm start <br>
